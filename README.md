@@ -1,2 +1,2 @@
 # Quantitative-Finance
-Place in which all my material on Quantitative Finance sleeps.
+Here you can find the codes (written in R) for my lecture seminars held at University of Pavia, Quantitative Finance with R (April-May 2018). Enjoy!
